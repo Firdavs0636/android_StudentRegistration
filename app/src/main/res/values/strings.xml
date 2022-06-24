@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Student Registration Page</string>
+    <string name="register_button">Register</string>
+    <string name="family_name">Family Name</string>
+    <string name="age_input">Age</string>
+    <string name="student_name">Student Name</string>
+    <string name="todo">TODO</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="no_data_available">No Data Available</string>
+    <string name="student_family_name_txt">Family Name</string>
+    <string name="student_name_txt">Student Name</string>
+    <string name="student_age_txt">Age</string>
+    <string name="student_id_txt">1</string>
+</resources>
